@@ -443,7 +443,7 @@ body {
 
 
 
-@media only screen and (max-width : 720px){ /*celulares*/
+@media only screen and (max-width : 340px){ /*celulares*/
     .barra_header {
         width: 100%;
         justify-content: center;
